@@ -1,0 +1,127 @@
+[
+  {
+    "Day": "ÏÍ",
+    "Lessons": [
+      {
+        "Name": "ÎÎÏ",
+        "Time": "08:00 - 09:30",
+        "RoomNumber": "523"
+      },
+      {
+        "Name": "ÈÈÏ",
+        "Time": "09:45 - 11:20",
+        "RoomNumber": "423"
+      },
+      {
+        "Name": "ÏÏÎ",
+        "Time": "11:30 - 13:00",
+        "RoomNumber": "342"
+      }
+    ]
+  }
+
+  {
+    "Day": "ÂÒ",
+    "Lessons": [
+      {
+        "Name": "Ôèç-ğà",
+        "Time": "08:00 - 09:30",
+        "RoomNumber": "237"
+      },
+      {
+        "Name": "ÎİÂÌèÀ",
+        "Time": "09:45 - 11:20",
+        "RoomNumber": "543"
+      },
+      {
+        "Name": "ÏÏÎ",
+        "Time": "11:30 - 13:00",
+        "RoomNumber": "245"
+      },
+    ]
+  }
+
+  {
+    "Day": "ÑĞ",
+    "Lessons": [
+      {
+        "Name": "ÒÀèÔß",
+        "Time": "08:00 - 09:30",
+        "RoomNumber": "452"
+      },
+      {
+        "Name": "ÒÀèÔß",
+        "Time": "09:45 - 11:20",
+        "RoomNumber": "452"
+      },
+      {
+        "Name": "Ôèç-ğà",
+        "Time": "11:30 - 13:00",
+        "RoomNumber": "237"
+      }
+    ]
+  }
+
+  {
+    "Day": "×Ò",
+    "Lessons": [
+      {
+        "Name": "Ğóññêèé ÿçûê",
+        "Time": "08:00 - 09:30",
+        "RoomNumber": "342"
+      },
+      {
+        "Name": "Ïğàâîâåäåíèå",
+        "Time": "09:45 - 11:20",
+        "RoomNumber": "244"
+      },
+      {
+        "Name": "ÎÎÏ",
+        "Time": "11:30 - 13:00",
+        "RoomNumber": "523"
+      }
+    ]
+  }
+
+  {
+    "Day": "ÏÒ",
+    "Lessons": [
+      {
+        "Name": "ÒÀèÔß",
+        "Time": "08:00 - 09:30",
+        "RoomNumber": "459"
+      },
+      {
+        "Name": "ÌËèÒÀ",
+        "Time": "09:45 - 11:20",
+        "RoomNumber": "142"
+      },
+      {
+        "Name": "ÌËèÒÀ",
+        "Time": "11:30 - 13:00",
+        "RoomNumber": "142"
+      }
+    ]
+  }
+
+  {
+    "Day": "ÑÁ",
+    "Lessons": [
+      {
+        "Name": "",
+        "Time": "",
+        "RoomNumber": ""
+      },
+      {
+        "Name": "",
+        "Time": "",
+        "RoomNumber": ""
+      },
+      {
+        "Name": "",
+        "Time": "",
+        "RoomNumber": ""
+      }
+    ]
+  }
+]
