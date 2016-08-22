@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="lksStudent.InfoAboutStudenst">
+  <Label Text="{Binding MainText}" VerticalOptions="Center" HorizontalOptions="Center"
+         BackgroundColor="White"/>
+
+  <Grid x:Name="GrindInfo">
+    <Grid.RowDefinitions>
+      <RowDefinition Height="*" />
+      <RowDefinition Height="*" />
+      <RowDefinition Height="*" />
+      <RowDefinition Height="*" />
+      <RowDefinition Height="*" />
+      <RowDefinition Height="*" />
+      <RowDefinition Height="*" />
+      <RowDefinition Height="*" />
+    </Grid.RowDefinitions>
+    <Grid.ColumnDefinitions>
+      <ColumnDefinition Width="*" />
+     
+    </Grid.ColumnDefinitions>
+    <Label Text="ФИО" 
+           Grid.Row="0" Grid.Column="0" />
+    <Label x:Name="Name1" Text="Вещев Алексей Валерьевич" 
+           FontSize="20" TextColor="Black" 
+           Grid.Row="1" Grid.Column="0" />
+    <Label Text="Номер студенческого" Grid.Row="2" Grid.Column="0" />
+    <Label Text="1140501061"
+           FontSize="20" TextColor="Black" 
+           Grid.Row="3" Grid.Column="0" />
+    <Label Text="Специальность" 
+           Grid.Row="4" Grid.Column="0" />
+    <Label Text="(09.03.04) Программная инженерия" 
+           FontSize="20" TextColor="Black" 
+           Grid.Row="5" Grid.Column="0" />
+    <Label Text="Группа" Grid.Row="6" Grid.Column="0" />
+    <Label Text="ПС-21" 
+           FontSize="20" TextColor="Black" 
+           Grid.Row="7" Grid.Column="0" />
+   
+  </Grid>
+
+  
+</ContentPage>
